@@ -1,11 +1,11 @@
 # Site settings
-title: Ion
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+title: Genomics of Regulatory RNA
+email: selene.fernandez.valverde@gmail.com
+description: About #
 baseurl: "/lab-site" # the subpath of your site, e.g. /blog/
 url: "http://liz-fernandez.github.io/lab-site/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: SelFdz
+github_username:  liz-fernandez
 
 # Build settings
 markdown: kramdown
